@@ -1,5 +1,5 @@
 
-# Projet BDD TP5 REALISE PAR DIOH Khady
+# Projet BDD TP5 REALISEE PAR DIOH Khady
  ## Api GitHub/ Lien de l'api: 'https://api.github.com/'
  
  ## Requete sur Python pour extraire les données de l'APi
