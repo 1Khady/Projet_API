@@ -9,6 +9,9 @@
 ##  Dictionnaire de données
 ![6](https://user-images.githubusercontent.com/75087503/103769040-e28e8300-5023-11eb-9447-e00be34826f4.JPG)
 
+## Schéma de données relationnel
+![schéma relationnel](https://user-images.githubusercontent.com/75087503/103775465-5f265f00-502e-11eb-84bc-0c49e13d7db3.jpg)
+
 ## MySQL et Pycharm utilisés par réaliser la base de donnés
 ## Création de la base de données 
 # Création de la Table Users
