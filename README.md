@@ -12,7 +12,7 @@
 ## Schéma de données relationnel
 ![schéma relationnel](https://user-images.githubusercontent.com/75087503/103775465-5f265f00-502e-11eb-84bc-0c49e13d7db3.jpg)
 
-## MySQL et Pycharm utilisés par réaliser la base de donnés
+## MySQL et Pycharm utilisés pour réaliser la base de donnés
 ## Création de la base de données 
 # Création de la Table Users
 ![11](https://user-images.githubusercontent.com/75087503/103769099-ffc35180-5023-11eb-9994-7812069dc22a.JPG)
